@@ -1,0 +1,77 @@
+body {
+    background-image: url(https://img.freepik.com/premium-photo/basketball-is-wet-street-with-puddle-water_1000764-9084.jpg);
+    background-size:cover;
+}
+
+#heading {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+#heading div {
+    margin: 15px;
+    font-size: x-large;
+}
+
+#t1 {
+    background-color: #0b12dad4;
+
+}
+
+#t2 {
+    background-color: #06c426d4;
+
+}
+
+.name {
+    height: 30px;
+    width: 120px;
+    text-align: center;
+    border-radius: 8px;
+    color: azure;
+}
+
+#score {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    color: rgb(253, 255, 255);
+    
+}
+
+#score div {
+    padding: 3.5%;
+    font-size: 50px;
+}
+
+#btn {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+#score div {
+    padding: 3.5%;
+    font-size: xxx-large;
+}
+
+button {
+    height: 30px;
+    width: 120px;
+    border-radius: 8px;
+    border: white;
+}
+
+#t1-inc button {
+    background-color: #0b12dad4;
+    color: azure;
+    font-size: 15px;
+}
+
+#t2-inc button {
+    background-color: #06c426d4;
+    color: azure;
+    font-size: 15px;
+
+}
