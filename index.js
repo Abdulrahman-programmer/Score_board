@@ -1,5 +1,5 @@
-let score1 = document.getElementById("t1-score")
-let score2 = document.getElementById("t2-score")
+let score1 = document.getElementById("t1.s")
+let score2 = document.getElementById("t2.s")
 let count1 = 0
 let count2 = 0
 console.log(score1)
